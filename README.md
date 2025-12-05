@@ -1,104 +1,88 @@
-# 👋 Hi there — I'm **İbrahim AKAY**
+# Hi there, I'm İbrahim Akay 👋  
+**Senior Software Developer | Backend Engineer | Distributed Systems Enthusiast**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b3d91&height=220&section=header&text=Software%20Developer&fontSize=64&animation=fadeIn&fontAlignY=38&desc=Yap%C4%B1%20Kredi%20Technology&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%" />
-</div>
+I'm a Software Developer specializing in **Java**, **event-driven systems**, **microservices**, and **scalable architectures**.  
+I work at **Yapı Kredi Teknoloji** in Istanbul, building high-quality software, leading technical designs, and solving complex system problems.
 
-<p align="center">
-  <a href="https://linkedin.com/in/ibrahimakay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ibrahim@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/akayibrahim"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+I enjoy designing reliable distributed systems, improving engineering culture, and contributing to clean, scalable backend architectures.
 
 ---
 
-## 🌍 About Me
+## 🔗 Connect with Me
 
-I’m **İbrahim Akay**, a Software Developer based in Istanbul.  
-I work at **Yapı Kredi Technology**, focusing on distributed backend systems, microservice architectures, event-driven communication, and high-performance system design.
-
-I’m passionate about:
-- building scalable and resilient backends,  
-- designing clear system boundaries,  
-- improving observability and operational excellence,  
-- solving production issues through root-cause analysis,  
-- and creating high-quality engineering culture across teams.
-
-I enjoy exploring new technologies, mentoring developers, and designing software that is both **robust** and **future-proof**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimakay)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/ibrahimakay)
+[![Email](https://img.shields.io/badge/Email-212121?logo=gmail&logoColor=white)](mailto:ibrahim.akayy@gmail.com)
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-- **15+ years** of experience in backend development and enterprise architectures.  
-- Strong expertise in **Java**, **Spring Boot**, **Spring Cloud**, and distributed systems.  
-- Designed and developed dozens of high-throughput, mission-critical microservices.  
-- Deep knowledge of **RabbitMQ**, **Redis**, transactional messaging, and asynchronous patterns.  
-- Experience building, scaling, and observing systems using **Docker**, **Kubernetes**, **Prometheus**, **Grafana**, and cloud-native tools.  
-- Skilled in analyzing performance bottlenecks, memory issues, and concurrency problems.  
-- Provide architectural consulting to ~40 teams, 600+ people and lead POC initiatives for new solutions.  
+- 🔭 Currently developing **scalable applications**, **event-driven architectures**, and **cloud-native platforms**  
+- 🌱 Learning deeply about **DDD**, **asynchronous communication**, **architectural patterns**  
+- 🧩 Passionate about designing **high-performance backend systems**  
+- 🗣 Love mentoring teams and improving engineering culture  
+- 💬 Ask me about **Java**, **Spring**, **System Architecture**, **Microservices**, **Performance Optimization**  
 
 ---
 
-## 💼 My Role at Yapı Kredi Technology
+## 🧰 My Toolbox
 
-As a Software Developer:
+Here are the tools and technologies I work with daily:
 
-- I develop and maintain high-performance backend services across corporate banking systems.  
-- I design microservice boundaries, REST contracts, messaging flows, and domain behaviors.  
-- I conduct code reviews, technical workshops, and create internal best-practice guidelines.  
-- I work closely with architects and senior leaders to plan long-term platform capabilities.  
-- I manage POCs and mentor teams to improve code quality, reliability, and system resilience.  
-
----
-
-## 🧠 Technical Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kubernetes,kafka,redis,git,jenkins,linux,maven,gradle&theme=dark" />
-</div>
-
-### Languages
-- Java, SQL, Bash, JavaScript (for backend tools)
-
-### Backend & Frameworks
-- Spring Boot, Spring Cloud, Spring Data, Spring Security
-- Reactive design, async processes, concurrency
-
-### Distributed Systems
-- Microservices, Event-Driven Architecture  
-- Kafka, Redis Streams, Saga Pattern, CQRS  
-- Idempotency, partitioning strategy, back-pressure design
-
-### Infrastructure & DevOps
-- Docker, Kubernetes  
-- Prometheus, Grafana  
-- Cloudflare, reverse proxy management  
-- CI/CD with Jenkins & GitHub Actions
-
-### Observability & Debugging
-- Distributed tracing  
-- Log aggregation (ELK-style)  
-- Production debugging & performance optimization  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 
 ---
 
-## 🎓 Education & Certifications
+## 📌 Featured Public Projects
 
-- B.Sc. in Computer Engineering at Cyprus International University
-- Java certification or microservices trainings  
+A curated selection of the projects I work on publicly:
+
+| Project | Language | Stars |
+|--------|----------|--------|
+| [lightweight-rag](https://github.com/ibrahimakay/lightweight-rag) | ![](https://img.shields.io/github/languages/top/ibrahimakay/lightweight-rag) | ![](https://img.shields.io/github/stars/ibrahimakay/lightweight-rag) |
+| [akayvisitedcities](https://github.com/ibrahimakay/akayvisitedcities) | ![](https://img.shields.io/github/languages/top/ibrahimakay/akayvisitedcities) | ![](https://img.shields.io/github/stars/ibrahimakay/akayvisitedcities) |
+| [flow-game](https://github.com/ibrahimakay/flow-game) | ![](https://img.shields.io/github/languages/top/ibrahimakay/flow-game) | ![](https://img.shields.io/github/stars/ibrahimakay/flow-game) |
+| [cleancodeai](https://github.com/ibrahimakay/cleancodeai) | ![](https://img.shields.io/github/languages/top/ibrahimakay/cleancodeai) | ![](https://img.shields.io/github/stars/ibrahimakay/cleancodeai) |
+| [scoo-ui](https://github.com/ibrahimakay/scoo-ui) | ![](https://img.shields.io/github/languages/top/ibrahimakay/scoo-ui) | ![](https://img.shields.io/github/stars/ibrahimakay/scoo-ui) |
+| [babyhelp-ui](https://github.com/ibrahimakay/babyhelp-ui) | ![](https://img.shields.io/github/languages/top/ibrahimakay/babyhelp-ui) | ![](https://img.shields.io/github/stars/ibrahimakay/babyhelp-ui) |
+| [jsontopojo](https://github.com/ibrahimakay/jsontopojo) | ![](https://img.shields.io/github/languages/top/ibrahimakay/jsontopojo) | ![](https://img.shields.io/github/stars/ibrahimakay/jsontopojo) |
+| [clip](https://github.com/ibrahimakay/clip) | ![](https://img.shields.io/github/languages/top/ibrahimakay/clip) | ![](https://img.shields.io/github/stars/ibrahimakay/clip) |
+| [challenge-ui](https://github.com/ibrahimakay/challenge-ui) | ![](https://img.shields.io/github/languages/top/ibrahimakay/challenge-ui) | ![](https://img.shields.io/github/stars/ibrahimakay/challenge-ui) |
+| [featureflags](https://github.com/ibrahimakay/featureflags) | ![](https://img.shields.io/github/languages/top/ibrahimakay/featureflags) | ![](https://img.shields.io/github/stars/ibrahimakay/featureflags) |
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Statistics
 
-- LinkedIn: **https://linkedin.com/in/ibrahimakay**  
-- GitHub: **https://github.com/akayibrahim**  
-- Email: **ibrahimakay@live.com**
+If the default version errors on your profile due to GitHub’s API rate limits, the mirror version below will always work.
+
+### 🔹 GitHub Stats  
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ibrahimakay&show_icons=true&count_private=true&hide=prs)
+
+### 🔹 Top Languages  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahimakay&layout=compact)
 
 ---
 
-## 🏁 Final Note
+## 📬 Contact
 
-I’m always exploring new technologies, improving system performance, and contributing to better engineering practices.  
-If you want to collaborate, feel free to reach out!
+If you’d like to collaborate, discuss engineering topics, or exchange ideas:
+
+📩 **Email:** ibrahim.akayy@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/ibrahimakay
+
+---
+
+### ⭐️ If you like my work, feel free to star some repositories!
