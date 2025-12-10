@@ -12,7 +12,7 @@ I enjoy designing reliable distributed systems, improving engineering culture, a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimakay)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/ibrahimakay)
-[![Email](https://img.shields.io/badge/Email-212121?logo=gmail&logoColor=white)](mailto:ibrahim.akayy@gmail.com)
+[![Email](https://img.shields.io/badge/Email-212121?logo=gmail&logoColor=white)](mailto:ibrahim.akayy@live.com)
 
 ---
 
