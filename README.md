@@ -11,8 +11,8 @@ I enjoy designing reliable distributed systems, improving engineering culture, a
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimakay)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/ibrahimakay)
-[![Email](https://img.shields.io/badge/Email-212121?logo=gmail&logoColor=white)](mailto:ibrahim.akayy@live.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/akayibrahim)
+[![Email](https://img.shields.io/badge/Email-212121?logo=gmail&logoColor=white)](mailto:ibrahimakay@live.com)
 
 ---
 
@@ -80,7 +80,7 @@ If the default version errors on your profile due to GitHub’s API rate limits,
 
 If you’d like to collaborate, discuss engineering topics, or exchange ideas:
 
-📩 **Email:** ibrahim.akayy@gmail.com  
+📩 **Email:** ibrahimakay@live.com  
 🔗 **LinkedIn:** https://linkedin.com/in/ibrahimakay
 
 ---
