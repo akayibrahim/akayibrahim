@@ -65,6 +65,19 @@ Next.js; all audio is synthesised at runtime with WebAudio.
 
 ---
 
+## 🗺️ Travel Map
+
+<a href="https://akayibrahim.github.io/akayvisitedcities/">
+  <img src="https://raw.githubusercontent.com/akayibrahim/akayvisitedcities/main/docs/timeline.gif" width="100%" alt="Akay's Travel Map: timeline playback"/>
+</a>
+
+Every city our family has visited, on one interactive map: **101 cities in 30 countries, from 1987 to today**.
+The timeline replays the trips in order, flying from city to city and drawing the route.
+
+**[🌍 Open the map](https://akayibrahim.github.io/akayvisitedcities/)** · [Source](https://github.com/akayibrahim/akayvisitedcities)
+
+---
+
 ## 📌 Featured Projects
 
 | Project | What it does | Stack |
